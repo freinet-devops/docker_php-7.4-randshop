@@ -1,4 +1,4 @@
-FROM php:7.4-fpm-alpine3.12
+FROM php:7.4-fpm-alpine
 # compared to
 # Install gd
 LABEL summary="php7.4 with extensions and external programs for randshop" \
